@@ -15,7 +15,8 @@ author: Shuyu Zhang
 
 navbar-links:
   Profile: "index"
-  Photography: "photography"
+  Photography:
+    - Fang: "fang"
   Contact: "contact"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
