@@ -9,15 +9,15 @@
 title: Shuyu Zhang
 
 # Your name to show in the footer
-author: Some Person
+author: Shuyu Zhang
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Profile: "profile"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  # Resources:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
