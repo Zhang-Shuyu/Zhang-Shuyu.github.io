@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-# subtitle: Why you'd want to go on a date with me
 ---
 
-my contact
+Email: [shuyuzhang@g.ucla.edu](mailto:shuyuzhang@g.ucla.edu)
