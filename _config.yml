@@ -15,6 +15,8 @@ author: Shuyu Zhang
 
 navbar-links:
   Profile: "profile"
+  Photography: "photography"
+  Contact: "contact"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
