@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Photography
-# subtitle: Why you'd want to go on a date with me
 ---
 
-My photos
+![1](assets/img/photography/1.jpg)
+![2](assets/img/photography/2.jpg)
+![3](assets/img/photography/3.jpg)
+![4](assets/img/photography/4.jpg)
