@@ -4,4 +4,4 @@ title: Shuyu Zhang
 subtitle: Personal website
 ---
 
-<img src="/assets/img/ucla.png" alt="">
+![Me](assets/img/ucla.png) This is my school
